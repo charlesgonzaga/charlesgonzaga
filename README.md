@@ -1,6 +1,11 @@
+<p align="center">
+  <img src="./assets/banner.png" />
+</p>
+
 # Olá, eu sou Charles Gonzaga 👋
 
-Arquiteto de Software e Staff Engineer com atuação em arquitetura de software, sistemas distribuídos, engenharia de backend e liderança técnica.
+Arquiteto de Software | Staff Engineer | Tech Lead <br>
+Sistemas Distribuídos • Cloud • IA • Backend
 
 ## 🚀 Especialidades
 
